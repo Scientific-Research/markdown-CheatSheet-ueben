@@ -5,6 +5,8 @@ Markdown Cheat Sheet - A quick reference to the Markdown syntax
 ## H2
 ### H3
 #### H4
+##### H5
+###### H6
 
 **bold text**
 
@@ -59,5 +61,6 @@ term
 That is so funny! :joy:
 
 I need to highlight these ==very important words==.
+
 H~2~O
 X^2^
