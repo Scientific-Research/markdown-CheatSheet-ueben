@@ -27,7 +27,7 @@ Markdown Cheat Sheet - A quick reference to the Markdown syntax
 ---
 ## Link
 
-[Microsoft Link](https://www.microsoft.com)
+[Link to Microsoft Website](https://www.microsoft.com)
 
 ## Image
 
