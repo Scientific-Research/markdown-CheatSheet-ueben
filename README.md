@@ -1,16 +1,22 @@
 # markdown-CheatSheet-ueben
+
 Markdown Cheat Sheet - A quick reference to the Markdown syntax
 
 # H1
+
 ## H2
+
 ### H3
+
 #### H4
+
 ##### H5
+
 ###### H6
 
 **bold text**
 
-*italicized text*
+_italicized text_
 
 > blockquote
 
@@ -25,6 +31,7 @@ Markdown Cheat Sheet - A quick reference to the Markdown syntax
 `code`
 
 ---
+
 ## Link
 
 [Link to Microsoft Website](https://www.microsoft.com)
@@ -33,10 +40,14 @@ Markdown Cheat Sheet - A quick reference to the Markdown syntax
 
 ![Kitz des Rehs ](https://upload.wikimedia.org/wikipedia/commons/2/22/Kid-jbk.jpg)
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+## Add the image from the images folder
+
+![Logo](/Images/Background%20image.jpg)
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
 
 ```
 {
