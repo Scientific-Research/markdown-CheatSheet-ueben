@@ -59,7 +59,7 @@ term
 
 - [x] Write the press release
 - [x] Update the website
-- [x] Contact the media
+- [ ] Contact the media
 
 That is so funny! :joy:
 
