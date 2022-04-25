@@ -26,9 +26,9 @@ Markdown Cheat Sheet - A quick reference to the Markdown syntax
 
 ---
 
-[title](https://www.microsoft.com)
+[Microsoft Link](https://www.microsoft.com)
 
-![alt text](/home/user/Pictures.kabab.jpg)
+![Page](/home/user/Pictures.kabab.jpg)
 
 | Syntax | Description |
 | ----------- | ----------- |
