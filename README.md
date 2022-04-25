@@ -58,8 +58,8 @@ term
 ~~The world is flat.~~
 
 - [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [x] Update the website
+- [x] Contact the media
 
 That is so funny! :joy:
 
