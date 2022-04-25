@@ -26,9 +26,9 @@ Markdown Cheat Sheet - A quick reference to the Markdown syntax
 
 ---
 
-[title](https://www.example.com)
+[title](https://www.microsoft.com)
 
-![alt text](image.jpg)
+![alt text](/home/user/Pictures.kabab.jpg)
 
 | Syntax | Description |
 | ----------- | ----------- |
