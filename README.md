@@ -28,7 +28,7 @@ Markdown Cheat Sheet - A quick reference to the Markdown syntax
 
 [Microsoft Link](https://www.microsoft.com)
 
-![Page](https://upload.wikimedia.org/wikipedia/commons/2/22/Kid-jbk.jpg)
+![Kitz des Rehs ](https://upload.wikimedia.org/wikipedia/commons/2/22/Kid-jbk.jpg)
 
 | Syntax | Description |
 | ----------- | ----------- |
