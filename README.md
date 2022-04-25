@@ -25,8 +25,11 @@ Markdown Cheat Sheet - A quick reference to the Markdown syntax
 `code`
 
 ---
+## Link
 
 [Microsoft Link](https://www.microsoft.com)
+
+## Image
 
 ![Kitz des Rehs ](https://upload.wikimedia.org/wikipedia/commons/2/22/Kid-jbk.jpg)
 
