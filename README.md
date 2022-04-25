@@ -7,6 +7,7 @@ Markdown Cheat Sheet - A quick reference to the Markdown syntax
 #### H4
 
 **bold text**
+
 *italicized text*
 
 > blockquote
