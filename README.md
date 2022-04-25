@@ -36,7 +36,7 @@ _italicized text_
 
 [Link to Microsoft Website](https://www.microsoft.com)
 
-## Image
+## Image from Internet
 
 ![Kitz des Rehs ](https://upload.wikimedia.org/wikipedia/commons/2/22/Kid-jbk.jpg)
 
