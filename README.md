@@ -28,8 +28,7 @@ Markdown Cheat Sheet - A quick reference to the Markdown syntax
 
 [Microsoft Link](https://www.microsoft.com)
 
-![Page](/home/user/Pictures.kabab.jpg)
-![Logo](/Images/image.png)
+![Page](https://de.wikipedia.org/wiki/Kitz#/media/Datei:Kid-jbk.jpg)
 
 | Syntax | Description |
 | ----------- | ----------- |
